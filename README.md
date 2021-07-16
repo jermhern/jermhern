@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SwiftUI/Swift
 - 👯 I’m looking to collaborate on any fun projects
 - 💬 Ask me about active-duty military
-- 📫 How to reach me: <a href="mailto:jermhern@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto:jermhern@gmail.com">my Email</a>
