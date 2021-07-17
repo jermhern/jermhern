@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 📱 &nbsp; Working on the iOS USCG Bootcamp Study Guide application for new recruits entering the service.
+- 📱 &nbsp; Working on the <a href="https://jermhern.github.io/USCGBTG/">iOS USCG Bootcamp Study Guide application</a> for new recruits entering the service.
 - 🎓 &nbsp; Studying Computer Science at Clark College, Vancouver, WA.
 
 ##  🤝🏻 &nbsp;Connect with Me
