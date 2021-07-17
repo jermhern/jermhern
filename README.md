@@ -2,7 +2,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🪖 &nbsp; Currently serving in the USCG speciazing in Network Analytics 
+- 🪖 &nbsp; Currently serving Active Duty, specializing in Information Technology
 - 📱 &nbsp; Working on the <a href="https://jermhern.github.io/USCGBSGLanding/">iOS USCG Bootcamp Study Guide application</a> for new recruits entering the service.
 - 🎓 &nbsp; Studying Computer Science at Clark College, Vancouver, WA.
 
