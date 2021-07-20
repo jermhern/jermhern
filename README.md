@@ -4,6 +4,7 @@
 
 - 🪖 &nbsp; Currently serving Active Duty, specializing in Information Technology
 - 📱 &nbsp; Working on the <a href="https://jermhern.github.io/USCGBSGLanding/">iOS USCG Bootcamp Study Guide application</a> for new recruits entering the service.
+- 📱 &nbsp; On the AppStore, <a href="https://apps.apple.com/us/app/kanyesays/id1577236444">KanyeSays</a>. Get random Kanye quotes, post images to your social, create background images of the quote, and get notified of quotes every few hours!
 - 🎓 &nbsp; Studying Computer Science at Clark College, Vancouver, WA.
 
 ##  🤝🏻 &nbsp;Connect with Me
