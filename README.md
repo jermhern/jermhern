@@ -3,8 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🪖 &nbsp; Currently serving Active Duty, specializing in Information Technology
-- 📱 &nbsp; Working on the iOS <a href="https://linktr.ee/USCGBPK/">USCG Bootcamp Prep Kit</a> application for new recruits entering the service. [Download today!]
-- 📱 &nbsp; On the AppStore, <a href="https://apps.apple.com/us/app/kanyesays/id1577236444">KanyeSays</a>. Get random Kanye quotes, post images to your social, create background images of the quote, and get notified of quotes every few hours!
+- 📱 &nbsp; Working on iOS applications. <a href="https://linktr.ee/Jermhern/"> What I have made!</a>
 - 🎓 &nbsp; Studying Computer Science at Clark College, Vancouver, WA.
 
 ##  🤝🏻 &nbsp;Connect with Me
