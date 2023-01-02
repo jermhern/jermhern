@@ -2,7 +2,6 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🪖 &nbsp; Currently serving Active Duty, specializing in Information Technology
 - 📱 &nbsp; Working on iOS applications. <a href="https://jermhern.carrd.co"> What I have made!</a>
 - 🎓 &nbsp; Studying Computer Science at Clark College, Vancouver, WA.
 
